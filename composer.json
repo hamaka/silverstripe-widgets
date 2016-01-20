@@ -10,8 +10,8 @@
 		}
 	],
 	"require": {
-		"silverstripe/framework": "3.2.*",
-		"silverstripe/cms": "3.2.*"
+		"silverstripe/framework": "dev-hamaka-stable",
+		"silverstripe/cms": "dev-hamaka-stable"
 	},
 	"require-dev": {
 		"phpunit/PHPUnit": "~3.7@stable"
